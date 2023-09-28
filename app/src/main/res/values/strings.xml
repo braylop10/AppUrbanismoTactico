@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">App_Urbanismo_tactico</string>
+    <string name="item1">reportar situacion</string>
+    <string name="item2">Ver estadisticas</string>
+    <string name="item3">historial de reportes</string>
+    <string name="item4">Salir</string>
+
 </resources>
